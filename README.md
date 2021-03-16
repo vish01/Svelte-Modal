@@ -1,3 +1,5 @@
+Live demo: <a href="https://svelte.dev/repl/348b194ef51a493c893eb19ba621c12b?version=3.35.0" target="_blank">Click Here </a>
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
